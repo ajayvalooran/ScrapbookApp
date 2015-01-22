@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScrapBook</string>
+
+    <string name="action_settings">Ajustes</string>
+	
+    <string name="tajmahal">Taj Mahal</string>
+    <string name="pyramid">pirámide</string>
+    <string name="colosseum">Coliseo romano</string>
+    <string name="wall">Gran Muralla China</string>
+    
+</resources>
